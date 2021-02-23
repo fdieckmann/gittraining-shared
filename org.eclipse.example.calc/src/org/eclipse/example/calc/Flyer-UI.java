@@ -11,7 +11,7 @@ package org.eclipse.example.calc;
 public interface Flyer-UI {
 	/**
 	 * @return name of the operation
-	 * hier muessen nich die passenden Routinen eingesetzt werden
+	 * hier muessen noch die passenden Routinen eingesetzt werden
 	 */
 	public String getName();
 }
