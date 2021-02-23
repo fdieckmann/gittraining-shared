@@ -12,6 +12,7 @@ public interface Flyer-UI {
 	/**
 	 * @return name of the operation
 	 * hier muessen noch die passenden Routinen eingesetzt werden
+	 * und noch viel mehr
 	 */
 	public String getName();
 }
