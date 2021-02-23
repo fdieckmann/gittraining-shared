@@ -24,5 +24,5 @@ public class Minus extends AbstractOperation implements BinaryOperation {
 	public String getName() {
 		return "-";
 	}
-
+//nochmal ein mehr oder weniger überflüssiger Kommentar
 }
