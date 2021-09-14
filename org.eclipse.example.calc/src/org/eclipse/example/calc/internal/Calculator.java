@@ -39,7 +39,7 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
-
+		//Push für share
 	    // Nur ein Kommentart
 		new Equals();
 		new Minus();
